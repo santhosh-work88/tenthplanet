@@ -1,0 +1,2 @@
+OrgName,BankAccountNo,DocTypeName,DateTrx,Description,BPartnerValue,AttributeName,DepartmentName,PayAmt,ISO_Code,CurrencyRate,Note,DeliveryDate,PaymentRefNo,UM_BeneficiaryName,UM_BeneficiaryAcct,ISNTA
+Ho Chi Minh,90308388101,AP Payment,06/01/2024,TEST Description,110003747,NTA Payment Select,,98000,VND,,Payment Imported successfully,06/01/2024,2001,Lien Hiep HTX Thuong Mai TP HCM,71000007995,
